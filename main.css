@@ -15,10 +15,9 @@ body{
 }
 .info{
     list-style-type:none;
-    padding: 30px 200px 20px 1100px;
+    padding: 3% 0% 2% 75%;
 }
 .info li{
-    padding-left: 80px;
     font-size: 17px;
     color: #022547;
 }
@@ -36,7 +35,7 @@ body{
     text-decoration: none;
 }
 .icon{
-    padding-left: 200px;
+    padding-left: 15%;
     width: 150px;
     height: 150px;
     opacity: 0.5;
@@ -49,7 +48,7 @@ body{
 .list li{
     overflow: hidden;
     float: left;
-    padding-left: 80px;
+    padding-left: 5%;
 }
 .list li a{
     cursor: pointer;
